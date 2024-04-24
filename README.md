@@ -1,16 +1,14 @@
 # MLOPs-Task6
-# Student Information
-
-This repository contains information about two students.
-
-## Students
+## Group Information
 
 | Name      | Roll  | Section |
 |-----------|-------|---------|
 | Jawad Ahmed  | 20I-0945  | DS-N       |
 | Muhammad Subhan| 20I-0873  | DS-N       |
 
-## Details
+## Google Drive Link
+- **Link** https://drive.google.com/drive/u/1/folders/11mmC-ZG7wlXiN3VaoiBm2iVyFMeTkydA
+## Contribution Details
 
 ### Jawad Ahmed
 - **Contribution** Added train.csv 
